@@ -1,4 +1,4 @@
-# LandingPage
+# Landing Page
 
 🚀 Tecnologias utilizadas:
 
