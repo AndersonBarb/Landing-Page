@@ -1,6 +1,6 @@
 # Landing Page
 
-🚀 Tecnologias utilizadas:
+🚀 Technology used:
 
 HTML/CSS
 
